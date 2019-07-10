@@ -98,7 +98,7 @@ Push to Heroku.
     To https://git.heroku.com/your-app-name.git
     * [new branch]      master -> master
 
-Visit the administration panel for your application at [your-app-name.herokuapp.com/admin/](https://your-app-name.herokuapp.com/admin/).
+Give it a second. Visit the administration panel for your application at [your-app-name.herokuapp.com/admin/](https://your-app-name.herokuapp.com/admin/).
 
 ![The end](https://i.imgur.com/0kl5pOs.png)
 
