@@ -100,6 +100,6 @@ Push to Heroku.::
 
 Visit the administration panel for your application at [your-app-name.herokuapp.com/admin/](https://your-app-name.herokuapp.com/admin/).
 
-![The end](https://imgur.com/0kl5pOs)
+![The end](https://i.imgur.com/0kl5pOs.png)
 
 [Young hearts, run free](https://www.youtube.com/watch?v=i1TDZtoq5PU).
