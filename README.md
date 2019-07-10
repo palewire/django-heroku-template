@@ -102,4 +102,8 @@ Give it a second. Visit the administration panel for your application at [your-a
 
 ![The end](https://i.imgur.com/0kl5pOs.png)
 
+Don't forget to create a super user so you can login.
+
+    $ heroku run python manage.py createsuperuser
+
 [Young hearts, run free](https://www.youtube.com/watch?v=i1TDZtoq5PU).
