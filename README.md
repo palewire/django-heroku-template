@@ -5,7 +5,7 @@ A template for Django projects hosted by Heroku
 
 ## Requirements
 
-* Heroku account
+* [Heroku account](https://signup.heroku.com/)
 * [Heroku command-line interface](https://devcenter.heroku.com/articles/heroku-cli)
 
 
