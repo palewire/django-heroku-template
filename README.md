@@ -41,7 +41,7 @@ Commit your work to your repository.
 
     $ git commit -am "Let's do this"
 
-Push to Heroku.::
+Push to Heroku.
 
     $ git push heroku master
     Counting objects: 19, done.
