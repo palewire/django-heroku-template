@@ -29,7 +29,7 @@ Do whatever Django things you want to do to configure your project. Then create 
 
 Create a PostgreSQL database with Heroku. We will use the free "hobby-dev" model as an example.
 
-    $ heroku addons:create heroku-postgresql:hobby-dev --your-app-name
+    $ heroku addons:create heroku-postgresql:hobby-dev --app your-app-name
     Creating heroku-postgresql:hobby-dev on ⬢ your-app-name... free
     Database has been created and is available
     ! This database is empty. If upgrading, you can transfer
